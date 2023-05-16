@@ -1,0 +1,10 @@
+header {
+  width: 100%;
+}
+header nav {
+  width: 100%;
+}
+header nav .container-fluid {
+  justify-content: space-between;
+  width: 80%;
+}/*# sourceMappingURL=styles.css.map */
